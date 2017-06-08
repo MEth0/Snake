@@ -5,13 +5,13 @@
 ** Login   <morgan.simon@epitech.eu>
 **
 ** Started on  Thu Jun  8 17:28:06 2017 Morgan SIMON
-** Last update Thu Jun  8 18:34:40 2017 Morgan SIMON
+** Last update Thu Jun  8 19:10:00 2017 Morgan SIMON
 */
 
 #ifndef SNAKE_H
 #define SNAKE_H
 
-#define SIZE		42
+#define SIZE		20
 #define WIDTH		1280
 #define HEIGHT		720
 #define MAX_SNAKE_SIZE	(WIDTH * HEIGHT)
